@@ -12,6 +12,8 @@ Legal and support pages for apps developed by Woorlds.
 - Putly App Support: https://woorlds.github.io/app-legal/putly/support/
 - Lorumi Privacy Policy: https://woorlds.github.io/app-legal/lorumi/privacy/
 - Lorumi App Support: https://woorlds.github.io/app-legal/lorumi/support/
+- StepCue Privacy Policy: https://woorlds.github.io/app-legal/stepcue/privacy/
+- StepCue App Support: https://woorlds.github.io/app-legal/stepcue/support/
 
 ## Shared developer website and advertising
 
