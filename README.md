@@ -16,6 +16,7 @@ Legal and support pages for apps developed by Woorlds.
 - StepCue App Support: https://woorlds.github.io/app-legal/stepcue/support/
 
 - Signalbook Privacy Policy: https://woorlds.github.io/app-legal/signalbook/privacy/
+- Signalbook App Support: https://woorlds.github.io/app-legal/signalbook/support/
 
 ## Shared developer website and advertising
 
